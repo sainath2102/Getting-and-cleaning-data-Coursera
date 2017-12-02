@@ -1,7 +1,7 @@
 # Getting-and-cleaning-data-Coursera
 Coursera Getting and Cleaning data week 4
 
-# In this project run_analysis.R that does the following.
+# In this project the script run_analysis.R does the following.
 
 Merges the training and the test sets to create one data set.
 
